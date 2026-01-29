@@ -7,6 +7,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "make_simple_calculator",
+            "request": "launch",
+            "mainClass": "java_folder.make_simple_calculator",
+            "projectName": "JAVAFX-HELLO_81b1a304"
+        },
+        {
+            "type": "java",
+            "name": "max_number",
+            "request": "launch",
+            "mainClass": "java_folder.max_number",
+            "projectName": "JAVAFX-HELLO_81b1a304"
+        },
+        {
+            "type": "java",
+            "name": "leap_year",
+            "request": "launch",
+            "mainClass": "java_folder.leap_year",
+            "projectName": "JAVAFX-HELLO_81b1a304"
+        },
+        {
+            "type": "java",
+            "name": "pos_neg_num",
+            "request": "launch",
+            "mainClass": "java_folder.pos_neg_num",
+            "projectName": "JAVAFX-HELLO_81b1a304"
+        },
+        {
+            "type": "java",
             "name": "odd_even",
             "request": "launch",
             "mainClass": "java_folder.odd_even",
