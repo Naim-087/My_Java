@@ -7,6 +7,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "odd_even",
+            "request": "launch",
+            "mainClass": "java_folder.odd_even",
+            "projectName": "JAVAFX-HELLO_81b1a304"
+        },
+        {
+            "type": "java",
+            "name": "creating_class",
+            "request": "launch",
+            "mainClass": "OOP_Folder.creating_class",
+            "projectName": "JAVAFX-HELLO_81b1a304"
+        },
+        {
+            "type": "java",
+            "name": "loop_project",
+            "request": "launch",
+            "mainClass": "java_folder.loop_project",
+            "projectName": "JAVAFX-HELLO_81b1a304"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "java_folder.factorial",
+            "projectName": "JAVAFX-HELLO_81b1a304"
+        },
+        {
+            "type": "java",
+            "name": "SwithAtmProject",
+            "request": "launch",
+            "mainClass": "java_folder.SwithAtmProject",
+            "projectName": "JAVAFX-HELLO_81b1a304"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "java_folder.Switch",
+            "projectName": "JAVAFX-HELLO_81b1a304"
+        },
+        {
+            "type": "java",
             "name": "if_else_simple_project",
             "request": "launch",
             "mainClass": "java_folder.if_else_simple_project",

@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class Arithma_Temperature_converter {
     public static void main(String[] args) 
     {
-        
     Scanner input = new Scanner(System.in);
 
     System.out.print("Enter Celcious Temperature : ");
@@ -18,6 +17,7 @@ public class Arithma_Temperature_converter {
     input.close();
 
 
-
   }
 }
+
+
