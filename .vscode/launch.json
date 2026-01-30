@@ -7,6 +7,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "variable_instances",
+            "request": "launch",
+            "mainClass": "OOP_Folder.variable_instances",
+            "projectName": "JAVAFX-HELLO_81b1a304"
+        },
+        {
+            "type": "java",
+            "name": "Varibale_local_with_method",
+            "request": "launch",
+            "mainClass": "OOP_Folder.Varibale_local_with_method",
+            "projectName": "JAVAFX-HELLO_81b1a304"
+        },
+        {
+            "type": "java",
+            "name": "Variable_Local1",
+            "request": "launch",
+            "mainClass": "OOP_Folder.Variable_Local1",
+            "projectName": "JAVAFX-HELLO_81b1a304"
+        },
+        {
+            "type": "java",
             "name": "make_simple_calculator",
             "request": "launch",
             "mainClass": "java_folder.make_simple_calculator",
