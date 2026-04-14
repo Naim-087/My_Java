@@ -15,7 +15,7 @@ package OOP_Folder;
     
 };
 
-public class creating_class {
+public class class_Creation {
     public static void main(String[] args) {
 
         // classname variable = new classname() ---- how to create  a class

@@ -13,5 +13,6 @@ public class Data_type
       System.out.println("ch ="+ch);
       System.out.println("b ="+my_float);
       System.out.println("b ="+my_double);
+      System.out.println(my_double + 5);
    }
 }

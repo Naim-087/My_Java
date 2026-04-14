@@ -7,6 +7,167 @@
     "configurations": [
         {
             "type": "java",
+            "name": "encapsulation_library",
+            "request": "launch",
+            "mainClass": "OOP_Folder.encapsulation_library",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "constructor_parameterized2",
+            "request": "launch",
+            "mainClass": "OOP_Folder.constructor_parameterized2",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "constructor_overloading2",
+            "request": "launch",
+            "mainClass": "OOP_Folder.constructor_overloading2",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "constructor_basic",
+            "request": "launch",
+            "mainClass": "OOP_Folder.constructor_basic",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "constructor_default2",
+            "request": "launch",
+            "mainClass": "OOP_Folder.constructor_default2",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "encapsulation",
+            "request": "launch",
+            "mainClass": "OOP_Folder.encapsulation",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "constructor_parameterized",
+            "request": "launch",
+            "mainClass": "OOP_Folder.constructor_parameterized",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "constructor_overloading",
+            "request": "launch",
+            "mainClass": "OOP_Folder.constructor_overloading",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "class_realExample",
+            "request": "launch",
+            "mainClass": "OOP_Folder.class_realExample",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "methodOverloading",
+            "request": "launch",
+            "mainClass": "OOP_Folder.methodOverloading",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "method_2",
+            "request": "launch",
+            "mainClass": "OOP_Folder.method_2",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "method",
+            "request": "launch",
+            "mainClass": "OOP_Folder.method",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "Data_type",
+            "request": "launch",
+            "mainClass": "java_folder.Data_type",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "QuickBites3",
+            "request": "launch",
+            "mainClass": "java_folder.QuickBites3",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "QuickBites2",
+            "request": "launch",
+            "mainClass": "java_folder.QuickBites2",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "QuickBites",
+            "request": "launch",
+            "mainClass": "java_folder.QuickBites",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "FoodOrdering",
+            "request": "launch",
+            "mainClass": "java_folder.FoodOrdering",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "FoodOrderingSystem",
+            "request": "launch",
+            "mainClass": "java_folder.FoodOrderingSystem",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "input_prectise2",
+            "request": "launch",
+            "mainClass": "java_folder.input_prectise2",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "B",
+            "request": "launch",
+            "mainClass": "myPack.B",
+            "projectName": "JAVAFX-HELLO_81b1a304"
+        },
+        {
+            "type": "java",
+            "name": "simple",
+            "request": "launch",
+            "mainClass": "OOP_Folder.simple",
+            "projectName": "JAVAFX-HELLO_81b1a304"
+        },
+        {
+            "type": "java",
+            "name": "Accessmodifier_private",
+            "request": "launch",
+            "mainClass": "OOP_Folder.Accessmodifier_private",
+            "projectName": "JAVAFX-HELLO_81b1a304"
+        },
+        {
+            "type": "java",
+            "name": "variable_static",
+            "request": "launch",
+            "mainClass": "OOP_Folder.variable_static",
+            "projectName": "JAVAFX-HELLO_81b1a304"
+        },
+        {
+            "type": "java",
             "name": "variable_instances",
             "request": "launch",
             "mainClass": "OOP_Folder.variable_instances",

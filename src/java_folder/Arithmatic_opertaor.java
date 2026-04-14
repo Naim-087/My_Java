@@ -1,4 +1,5 @@
-package java_folder;
+ 
+ package java_folder;
 
  import java.util.Scanner ;
 public class Arithmatic_opertaor {

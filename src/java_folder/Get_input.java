@@ -12,7 +12,7 @@ public class Get_input {
         number2 = input.nextInt();
         System.out.println(number2);
 
-       input.nextLine(); // 🔥 buffer clear
+       input.nextLine(); //  buffer clear
 
         String name ;
         System.out.println("Enter a your name : ");

@@ -14,7 +14,7 @@ public class Data_type_prac {
         price= 15895;
         description="perfect product with best image quality";
         category="Phone";
-
+  
         System.out.println("ID = "+id);
         System.out.println("title = "+title);
         System.out.println("price = "+price);
