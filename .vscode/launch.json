@@ -7,6 +7,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Array_list_traversing",
+            "request": "launch",
+            "mainClass": "OOP_Folder.Array_list_traversing",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "Array_list_remove",
+            "request": "launch",
+            "mainClass": "OOP_Folder.Array_list_remove",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "Array_list_update",
+            "request": "launch",
+            "mainClass": "OOP_Folder.Array_list_update",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "Array_list_accessing",
+            "request": "launch",
+            "mainClass": "OOP_Folder.Array_list_accessing",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "Array_list1",
+            "request": "launch",
+            "mainClass": "OOP_Folder.Array_list1",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "abstract_Interfaces1",
+            "request": "launch",
+            "mainClass": "java_folder.abstract_Interfaces1",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "abstraction2",
+            "request": "launch",
+            "mainClass": "java_folder.abstraction2",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "abstraction1",
+            "request": "launch",
+            "mainClass": "java_folder.abstraction1",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "polymorphism2",
+            "request": "launch",
+            "mainClass": "OOP_Folder.polymorphism2",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "polymorphism",
+            "request": "launch",
+            "mainClass": "OOP_Folder.polymorphism",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "inheritence_Vehicle",
+            "request": "launch",
+            "mainClass": "OOP_Folder.inheritence_Vehicle",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "encap_helmet_safety",
+            "request": "launch",
+            "mainClass": "OOP_Folder.encap_helmet_safety",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
             "name": "encapsulation_library",
             "request": "launch",
             "mainClass": "OOP_Folder.encapsulation_library",

@@ -11,7 +11,7 @@ public class encapsulation_library {
     encapsulation_library(int bookid, String title, String author, int price, int avacop) {
 
         this.bookid = bookid;
-        this.title = title;
+        this.title = title; 
         this.author = author;
 
         // Validation
