@@ -7,6 +7,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "exceptionHandling2",
+            "request": "launch",
+            "mainClass": "OOP_Folder2.exceptionHandling2",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
             "name": "exceptionHandling",
             "request": "launch",
             "mainClass": "OOP_Folder2.exceptionHandling",
