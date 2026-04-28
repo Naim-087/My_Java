@@ -15,18 +15,18 @@ public class all_operations {
 
         // 3. Inserting at specific index
         list.add(1, 15);
-        System.out.println("After inserting at index 1: " + list);
+        System.out.println("After inserting at index 1: " +list);
 
         // 4. Adding multiple elements
         ArrayList<Integer> list2 = new ArrayList<>();
         list2.add(100);
         list2.add(200);
         list.addAll(list2);
-        System.out.println("After adding multiple: " + list);
+        System.out.println("After adding multiple: " +list);
 
         // 5. Adding multiple at specific index
         list.addAll(2, list2);
-        System.out.println("After inserting multiple at index 2: " + list);
+        System.out.println("After inserting multiple at index 2: " +list);
 
         // 6. Accessing element
         int first = list.get(0);
