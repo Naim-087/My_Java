@@ -7,6 +7,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Boy",
+            "request": "launch",
+            "mainClass": "School.Boy",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "student1.Main",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "Array_list_input",
+            "request": "launch",
+            "mainClass": "OOP_Folder2.Array_list_input",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "arraylist2",
+            "request": "launch",
+            "mainClass": "OOP_Folder2.arraylist2",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
+            "name": "arraylist2",
+            "request": "launch",
+            "mainClass": "OOP_Folder.arraylist2",
+            "projectName": "JAVAFX-HELLO_5cbadf70"
+        },
+        {
+            "type": "java",
             "name": "Array_list_traversing",
             "request": "launch",
             "mainClass": "OOP_Folder.Array_list_traversing",
